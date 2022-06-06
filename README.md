@@ -45,4 +45,4 @@ Forward Stream Webhook Events to NX VMS as Alerts
 
 
 ## TODO
--[ ] I think user might need to direct specific events to specific Cameras in the VMS, i.e Pass multiple `--camera`
+- [ ] I think user might need to direct specific events to specific Cameras in the VMS, i.e Pass multiple `--camera`
